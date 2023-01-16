@@ -1,2 +1,2 @@
 ## dianji
-<a href="index.html">shopping</a>
+<a href="../shoping/index.html">shopping</a>
